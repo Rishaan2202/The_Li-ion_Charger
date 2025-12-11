@@ -1,0 +1,10 @@
+﻿Designator,Footprint,Quantity,Value,Li-Ion Circuits,Robu.in
+"C1, C2, C3",805,3,10uF,Done,
+"D1, D2",603,2,LED,Done,
+J6,KINGHELM_KH-TYPE-C-16P,1,KH-TYPE-C-16P,,Done
+R1,805,1,0.4Ω,Done,
+R2,805,1,1.33kΩ,Done,
+"R28, R4",805,2,5.1kΩ,Done,
+"R3, R5",805,2,1kΩ,Done,
+U1,SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.41x3.3mm_ThermalVias,1,TP4056-42-ESOP8,,Done
+U2,12BHC186P1GR,1,12BHC186P1-GR,,Done
