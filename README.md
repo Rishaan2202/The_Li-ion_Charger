@@ -27,4 +27,24 @@
 <br>
 <br>
 
+<h2> So here are the cart SSs for the PCB + components: </h2>
+<br>
+
+<img width="1897" height="873" alt="image" src="https://github.com/user-attachments/assets/7f44ea33-661e-4fdb-a153-4a6a4fc12983" />
+
+<br>
+<br>
+
+<img width="1892" height="865" alt="image" src="https://github.com/user-attachments/assets/b6fc52d8-f8a8-4cd7-ae0e-a5469772d22b" />
+<br>
+<br>
+
+<h2> Total Cost: ~$25 </h2>
+<br>
+<br>
+
+This is enough ig!
+<br>
+<br>
+
 <h2> TYSM!!! </h2>
