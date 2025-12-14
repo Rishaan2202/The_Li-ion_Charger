@@ -10,4 +10,5 @@ U1,SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.41x3.3mm_ThermalVias,1,TP4056-42-ESOP8,,Done
 U2,12BHC186P1GR,1,12BHC186P1-GR,,Done,$0.32
 BAT1,Li-ion Battery,1,Li-ion Battery,,Done,$2.53
 ,,,,,Shippinng,$1.65 + $0.54
-,,,,,Total,$11.11
+,,,,,PCB,$11.3
+,,,,,Total,$24.6
